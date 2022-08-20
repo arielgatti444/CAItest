@@ -1,0 +1,15 @@
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\bin\Debug\net6.0\Prueba1CAI.exe
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\bin\Debug\net6.0\Prueba1CAI.deps.json
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\bin\Debug\net6.0\Prueba1CAI.runtimeconfig.json
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\bin\Debug\net6.0\Prueba1CAI.dll
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\bin\Debug\net6.0\Prueba1CAI.pdb
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.csproj.AssemblyReference.cache
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.AssemblyInfoInputs.cache
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.AssemblyInfo.cs
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.dll
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\refint\Prueba1CAI.dll
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.pdb
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\Prueba1CAI.genruntimeconfig.cache
+C:\Users\Ariel\Documents\GitHub\CAItest\Aplicacion de Prueba\Prueba1CAI\obj\Debug\net6.0\ref\Prueba1CAI.dll
